@@ -55,4 +55,4 @@ $ npm run serve
 Go to `http://localhost:8080/` to view the page.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
